@@ -1,0 +1,1 @@
+run the dictionary_parser before using this tool to create a dictionary.
